@@ -1,0 +1,53 @@
+{
+	"data": {
+		"comment_list": null,
+		"draft_comment": null,
+		"force_clock": true,
+		"force_img_cnt": 2,
+		"hint": {
+			"can_comment": true,
+			"daily_submit_limit": false,
+			"message": "提交"
+		},
+		"pop_up": {
+			"title": "",
+			"content": "",
+			"link_content": "",
+			"link_url": "",
+			"button_content": ""
+		},
+		"pop_up_type": 0,
+		"subtitle_content": [],
+		"subtitle_tips": [{
+			"subtitle": "房源户型",
+			"tips": "楼盘常见户型有",
+			"code": 1011
+		}, {
+			"subtitle": "小区介绍",
+			"tips": "容积绿化、物业服务、车位数量……",
+			"code": 1012
+		}, {
+			"subtitle": "购买方案",
+			"tips": "最低首付、贷款比例……",
+			"code": 1013
+		}, {
+			"subtitle": "购买建议",
+			"tips": "刚需改善、养老教育……",
+			"code": 1014
+		}, {
+			"subtitle": "生活配套",
+			"tips": "距离【】km内有【】学校",
+			"code": 1015
+		}, {
+			"subtitle": "房屋品质",
+			"tips": "电梯供暖……",
+			"code": 1016
+		}, {
+			"subtitle": "交通出行",
+			"tips": "地铁公交、临近主路……",
+			"code": 1017
+		}]
+	},
+	"message": "success",
+	"status": 0
+}

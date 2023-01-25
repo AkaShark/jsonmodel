@@ -44,7 +44,7 @@ static JSONKeyMapper* globalKeyMapper = nil;
     dispatch_once(&once, ^{
         // initialize all class static objects,
         // which are common for ALL JSONModel subclasses
-
+        // 初始化静态变量
         @autoreleasepool {
             allowedJSONTypes = @[
                 [NSString class], [NSNumber class], [NSDecimalNumber class], [NSArray class], [NSDictionary class], [NSNull class], //immutable JSON classes
